@@ -1,5 +1,5 @@
 
-Live deployed application: 
+Live deployed application: https://pro-portfolio.onrender.com/
 
 
 ## Table of Contents
@@ -12,7 +12,7 @@ Live deployed application:
 
 ## Instruction
 
-To download the app, run the command: ```git clone hhttps://github.com/nuggetBiscuit/react-portfolio```
+To download the app, run the command: ```git clone https://github.com/nuggetBiscuit/react-portfolio```
 
 After downloading to your local device, please run the command ```npm install``` to install packages
 
